@@ -7,7 +7,7 @@
 - 📫 How to reach me: https://www.facebook.com/VNObfuscator/
 - ⚡ Fun fact: Tried to loose weight but it's kinda impossible to a person who is addicted to computer like me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cp04042k&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cp04042k&show_icons=true&theme=dracula)
 
 This week: 
 
