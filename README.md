@@ -11,4 +11,4 @@
 
 This week: 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cp04042k)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cp04042k)](https://github.com/CP04042K/CP04042K)
