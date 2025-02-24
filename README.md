@@ -8,6 +8,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cp04042k&show_icons=true&theme=dracula)
 
-This week: 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cp04042k)](https://github.com/CP04042K/CP04042K)
